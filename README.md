@@ -2,7 +2,7 @@
 
 This project uses a Convolutional Neural Network (CNN) to classify different types of disasters from images: such as fires, earthquakes, floods, and non-damage scenes.
 
-## 🧠 Project Overview
+## 🧠 Project Overview 
 
 The CNN model is trained on a custom dataset organized into multiple disaster categories.
 It automatically classifies input images into one of several disaster types.
